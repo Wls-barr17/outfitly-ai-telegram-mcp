@@ -1,4 +1,4 @@
-OutfitSense is a smart Telegram bot built with Python that helps users decide what to wear — fast, stylish, and weather-aware.
+OutfitAdvisor is a smart Telegram bot built with Python that helps users decide what to wear — fast, stylish, and weather-aware.
 It analyzes your preferences and real-time weather data to suggest outfits that match your vibe and the day’s conditions.
 
 Whether you’re heading to class, work, or a night out, just message the bot — OutfitSense will pick a look for you.
